@@ -511,6 +511,7 @@ button {
   padding-left: 15px;
   padding-right: 15px;
   margin-left: 156px;
+  position: relative;
 }
 
 .footer-description {
@@ -568,7 +569,10 @@ button {
 }
 
 .footer-form {
+  position: absolute;
   display: inline-flex;
+  top: 50;
+  right: 50;
 }
 
 .subscribe-footer-wrapper {
@@ -598,9 +602,6 @@ button {
 
 .footer-form-field::placeholder {
   color: #ffffff;
-}
-
-.subscribe-footer-wrapper {
 }
 
 .subscribe-btn {
