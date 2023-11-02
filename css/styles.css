@@ -195,7 +195,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url('/images/office_background.jpg');
+    url('../images/office_background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -615,7 +615,7 @@ button {
   align-items: center;
   min-width: 165px;
   height: 40px;
-  color: #fff;
+  color: #ffffff;
   text-align: start;
   padding-left: 24px;
   font-size: 16px;
