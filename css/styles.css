@@ -727,6 +727,10 @@ button {
   margin-bottom: 8px;
 }
 
+.review-form-field-comment-wrapper {
+  margin-bottom: 16px;
+}
+
 .review-form-field-label {
   display: block;
   font-size: 12px;
